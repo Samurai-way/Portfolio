@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.31e0f640.css",
-    "main.js": "/Portfolio/static/js/main.4fb14648.js",
+    "main.css": "/Portfolio/static/css/main.282425e7.css",
+    "main.js": "/Portfolio/static/js/main.15494027.js",
     "static/js/787.45de9d28.chunk.js": "/Portfolio/static/js/787.45de9d28.chunk.js",
     "static/media/TodoList.png": "/Portfolio/static/media/TodoList.43c74f4719553fe0db3e.png",
-    "static/media/h2F0A3148.png": "/Portfolio/static/media/h2F0A3148.3d16a7c42a1b49a25478.png",
     "static/media/social-network-background-with-icons_23-2147497535.jpg": "/Portfolio/static/media/social-network-background-with-icons_23-2147497535.5eb68144f8e3f7af56c5.jpg",
+    "static/media/photo_2022-10-25_15-46-13.jpg": "/Portfolio/static/media/photo_2022-10-25_15-46-13.08b7c3d69da6038ecf6f.jpg",
     "static/media/GitHub.png": "/Portfolio/static/media/GitHub.ae2245b93f5517f69883.png",
     "static/media/telegram.png": "/Portfolio/static/media/telegram.342e3615e7887781aeb5.png",
     "static/media/formik.png": "/Portfolio/static/media/formik.95443f3a820d21784c67.png",
@@ -22,12 +22,12 @@
     "static/media/material-ui.svg": "/Portfolio/static/media/material-ui.456bfb02539777f812137c514d397868.svg",
     "static/media/js.svg": "/Portfolio/static/media/js.1192a303c7e00b85f5dedb939fd9a088.svg",
     "index.html": "/Portfolio/index.html",
-    "main.31e0f640.css.map": "/Portfolio/static/css/main.31e0f640.css.map",
-    "main.4fb14648.js.map": "/Portfolio/static/js/main.4fb14648.js.map",
+    "main.282425e7.css.map": "/Portfolio/static/css/main.282425e7.css.map",
+    "main.15494027.js.map": "/Portfolio/static/js/main.15494027.js.map",
     "787.45de9d28.chunk.js.map": "/Portfolio/static/js/787.45de9d28.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31e0f640.css",
-    "static/js/main.4fb14648.js"
+    "static/css/main.282425e7.css",
+    "static/js/main.15494027.js"
   ]
 }
